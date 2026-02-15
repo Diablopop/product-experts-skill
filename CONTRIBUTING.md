@@ -25,7 +25,7 @@ This project follows the principle of being helpful, respectful, and constructiv
 
 **Before submitting a bug report:**
 - Check the [troubleshooting guide](docs/troubleshooting.md)
-- Search [existing issues](https://github.com/andrewschauer/product-experts-skill/issues) to avoid duplicates
+- Search [existing issues](https://github.com/Diablopop/product-experts-skill/issues) to avoid duplicates
 
 **When submitting a bug report, include:**
 - **Clear title** describing the issue
@@ -63,7 +63,7 @@ FileNotFoundError: [Errno 2] No such file or directory: '~/.claude/skills/produc
 ### Suggesting Enhancements
 
 We welcome feature suggestions! Please:
-- **Check [existing feature requests](https://github.com/andrewschauer/product-experts-skill/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)** first
+- **Check [existing feature requests](https://github.com/Diablopop/product-experts-skill/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)** first
 - **Describe the use case** - what problem does this solve?
 - **Describe the solution** - what would you like to see?
 - **Consider alternatives** - what other approaches did you consider?
@@ -223,7 +223,7 @@ We'd love contributions toward:
 
 ## Questions?
 
-- **General questions:** [GitHub Discussions](https://github.com/andrewschauer/product-experts-skill/discussions)
+- **General questions:** [GitHub Discussions](https://github.com/Diablopop/product-experts-skill/discussions)
 - **Bug or feature-specific:** Comment on relevant issue
 - **Security concerns:** Email (to be added)
 

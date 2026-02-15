@@ -46,7 +46,7 @@ Creates synthesis with common themes, divergent views, and actionable takeaways
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/andrewschauer/product-experts-skill.git
+git clone https://github.com/Diablopop/product-experts-skill.git
 cd product-experts-skill
 ```
 
@@ -160,8 +160,8 @@ Contributions welcome! Please:
 
 ## Support
 
-- **Issues:** [GitHub Issues](https://github.com/andrewschauer/product-experts-skill/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/andrewschauer/product-experts-skill/discussions)
+- **Issues:** [GitHub Issues](https://github.com/Diablopop/product-experts-skill/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/Diablopop/product-experts-skill/discussions)
 
 ---
 

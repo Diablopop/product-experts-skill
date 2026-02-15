@@ -25,7 +25,7 @@ Before installing, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/andrewschauer/product-experts-skill.git
+git clone https://github.com/Diablopop/product-experts-skill.git
 cd product-experts-skill
 ```
 
@@ -407,6 +407,6 @@ After successful installation:
 If you run into issues:
 
 1. **Check:** [Troubleshooting Guide](docs/troubleshooting.md)
-2. **Search:** [GitHub Issues](https://github.com/andrewschauer/product-experts-skill/issues)
-3. **Ask:** [GitHub Discussions](https://github.com/andrewschauer/product-experts-skill/discussions)
-4. **Report a bug:** [New Issue](https://github.com/andrewschauer/product-experts-skill/issues/new)
+2. **Search:** [GitHub Issues](https://github.com/Diablopop/product-experts-skill/issues)
+3. **Ask:** [GitHub Discussions](https://github.com/Diablopop/product-experts-skill/discussions)
+4. **Report a bug:** [New Issue](https://github.com/Diablopop/product-experts-skill/issues/new)

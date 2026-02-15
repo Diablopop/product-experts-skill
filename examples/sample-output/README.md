@@ -139,8 +139,8 @@ Based on this sample, here are other questions that would work well:
 ## Feedback
 
 If you try the skill and want to share feedback about the output quality:
-- **GitHub Issues:** https://github.com/andrewschauer/product-experts-skill/issues
-- **Discussions:** https://github.com/andrewschauer/product-experts-skill/discussions
+- **GitHub Issues:** https://github.com/Diablopop/product-experts-skill/issues
+- **Discussions:** https://github.com/Diablopop/product-experts-skill/discussions
 
 ---
 

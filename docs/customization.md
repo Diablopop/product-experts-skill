@@ -414,6 +414,6 @@ Shows top-scoring experts for your test question.
 
 ## Getting Help with Customization
 
-- **GitHub Discussions:** https://github.com/andrewschauer/product-experts-skill/discussions
-- **Open an issue:** https://github.com/andrewschauer/product-experts-skill/issues
+- **GitHub Discussions:** https://github.com/Diablopop/product-experts-skill/discussions
+- **Open an issue:** https://github.com/Diablopop/product-experts-skill/issues
 - **See examples:** Check the `examples/` folder for sample customizations

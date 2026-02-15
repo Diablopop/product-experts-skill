@@ -121,7 +121,7 @@ If timestamps are minutes apart, they ran sequentially (this is a bug in the ski
 **Solution:**
 This is expected to be 2-3 minutes. If it's taking >5 minutes:
 - Wait for it to complete (it will finish)
-- Report issue at: https://github.com/andrewschauer/product-experts-skill/issues
+- Report issue at: https://github.com/Diablopop/product-experts-skill/issues
 
 ## Index Issues
 
@@ -289,7 +289,7 @@ pip3 install anthropic
 If you've tried the solutions above and still have issues:
 
 1. **Check existing issues:**
-   - https://github.com/andrewschauer/product-experts-skill/issues
+   - https://github.com/Diablopop/product-experts-skill/issues
 
 2. **Create a new issue:**
    - Include error messages (full text)
@@ -302,7 +302,7 @@ If you've tried the solutions above and still have issues:
      ```
 
 3. **Discussion forum:**
-   - https://github.com/andrewschauer/product-experts-skill/discussions
+   - https://github.com/Diablopop/product-experts-skill/discussions
 
 ## Common Questions
 
