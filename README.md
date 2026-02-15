@@ -39,7 +39,7 @@ Creates synthesis with common themes, divergent views, and actionable takeaways
 
 - Python 3.9+
 - [Claude Code](https://www.anthropic.com/claude-code) (VSCode extension)
-- Podcast transcripts in .txt format (see [Getting Transcripts](#getting-transcripts))
+- Podcast transcripts in .txt format (see [Getting Transcripts](https://github.com/Diablopop/product-experts-skill/blob/main/docs/getting-transcripts.md))
 
 ## Quick Start
 
