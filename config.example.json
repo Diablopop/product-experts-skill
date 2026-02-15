@@ -1,0 +1,5 @@
+{
+  "transcripts_directory": "~/Documents/lennys-podcast-transcripts",
+  "output_directory": "~/Documents/product-experts-outputs",
+  "skill_directory": "~/.claude/skills/product-experts"
+}

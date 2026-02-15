@@ -1,0 +1,28 @@
+# Configuration (users create their own)
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# User-specific
+transcripts/
+outputs/
+
+# Testing
+test-outputs/
