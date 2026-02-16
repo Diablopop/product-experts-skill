@@ -15,8 +15,8 @@ Lenny Rachitsky generously makes all his podcast transcripts publicly available 
    - As of February 2026, there are 303 transcript files in the Dropbox
    - Each file is named after the guest expert (e.g., "Elena Verna.txt")
 3. **Download to your transcripts directory**
-   - The directory you specified during installation
-   - Default: `~/Documents/lennys-podcast-transcripts/`
+   - Default location: `~/Documents/lennys-podcast-transcripts/`
+   - The installer creates this directory automatically
 4. **Exclude compilation episodes**
    - **Do not download:** `Interview Q Compilation.txt`
    - This is a compilation episode (not a single expert interview) and creates unusual results

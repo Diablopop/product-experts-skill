@@ -60,7 +60,7 @@ chmod +x install.sh
 The installer will:
 - Check prerequisites (Python 3.9+)
 - Install Python dependencies
-- Prompt for configuration (transcript location, output location)
+- Set up default directories (~/Documents/lennys-podcast-transcripts, ~/Documents/product-experts-outputs)
 - Copy skill files to `~/.claude/skills/product-experts/`
 - You're ready to use it!
 
@@ -70,7 +70,7 @@ Download Lenny's podcast transcripts from his public Dropbox:
 
 🔗 **[Download Transcripts](https://www.dropbox.com/scl/fo/yxi4s2w998p1gvtpu4193/AMdNPR8AOw0lMklwtnC0TrQ?rlkey=j06x0nipoti519e0xgm23zsn9&e=1&st=ahz0fj11&dl=0)**
 
-Save all `.txt` files to the transcripts directory you specified during installation.
+Save all `.txt` files to `~/Documents/lennys-podcast-transcripts/` (the default directory).
 
 **Note:** Exclude `Interview Q Compilation.txt` (compilation episode, not a single expert interview).
 

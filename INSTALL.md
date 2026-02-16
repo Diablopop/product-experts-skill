@@ -51,7 +51,7 @@ Visit Lenny's Dropbox and download all transcript files:
 
 **Important:** Do not download `Interview Q Compilation.txt` (compilation episode that produces inconsistent results).
 
-Save them to the transcripts directory you specified during installation.
+Save them to `~/Documents/lennys-podcast-transcripts/` (the default directory created by the installer).
 
 ### 4. Verify Installation
 
