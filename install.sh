@@ -75,27 +75,17 @@ fi
 echo ""
 echo "Step 3: Configuration"
 echo "---------------------"
-echo "I need to know where you want to store transcripts and outputs."
+
+# Set default directories
+TRANSCRIPTS_DIR="$HOME/Documents/lennys-podcast-transcripts"
+OUTPUT_DIR="$HOME/Documents/product-experts-outputs"
+
+echo "Using default directories:"
+echo "  📁 Transcripts: ~/Documents/lennys-podcast-transcripts"
+echo "  📁 Outputs: ~/Documents/product-experts-outputs"
 echo ""
-
-# Get transcripts directory
-read -p "Transcripts directory [~/Documents/lennys-podcast-transcripts]: " TRANSCRIPTS_DIR
-TRANSCRIPTS_DIR=${TRANSCRIPTS_DIR:-~/Documents/lennys-podcast-transcripts}
-
-# Expand tilde
-TRANSCRIPTS_DIR="${TRANSCRIPTS_DIR/#\~/$HOME}"
-
-# Get output directory
-read -p "Output directory [~/Documents/product-experts-outputs]: " OUTPUT_DIR
-OUTPUT_DIR=${OUTPUT_DIR:-~/Documents/product-experts-outputs}
-
-# Expand tilde
-OUTPUT_DIR="${OUTPUT_DIR/#\~/$HOME}"
-
-echo ""
-echo "Configuration:"
-echo "  Transcripts: $TRANSCRIPTS_DIR"
-echo "  Outputs: $OUTPUT_DIR"
+echo "You can change these later by editing:"
+echo "  ~/.claude/skills/product-experts/config.json"
 echo ""
 
 # Create directories if they don't exist
@@ -183,5 +173,5 @@ echo "  - Installation: INSTALL.md"
 echo "  - Usage guide: docs/how-to-use.md"
 echo "  - Troubleshooting: docs/troubleshooting.md"
 echo ""
-echo "Need help? https://github.com/andrewschauer/product-experts-skill/issues"
+echo "Need help? https://github.com/Diablopop/product-experts-skill/issues"
 echo ""
